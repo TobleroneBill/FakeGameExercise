@@ -1,0 +1,15 @@
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\bin\Debug\net6.0\MantiShips.exe
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\bin\Debug\net6.0\MantiShips.deps.json
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\bin\Debug\net6.0\MantiShips.runtimeconfig.json
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\bin\Debug\net6.0\MantiShips.dll
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\bin\Debug\net6.0\MantiShips.pdb
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\MantiShips.csproj.AssemblyReference.cache
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\MantiShips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\MantiShips.AssemblyInfoInputs.cache
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\MantiShips.AssemblyInfo.cs
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\MantiShips.csproj.CoreCompileInputs.cache
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\MantiShips.dll
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\refint\MantiShips.dll
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\MantiShips.pdb
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\MantiShips.genruntimeconfig.cache
+C:\Users\leese\Desktop\c sharp stuff\Lesson3\MantiShips\obj\Debug\net6.0\ref\MantiShips.dll
